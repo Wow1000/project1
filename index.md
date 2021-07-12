@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Blah blah blah
 
 You can use the [editor on GitHub](https://github.com/Wow1000/project1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
